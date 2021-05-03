@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Maciej Odziemczyk</title>
+    <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/</link>
+    <description>Recent content in Projects on Maciej Odziemczyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 May 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://maciejodziemczyk.github.io/DataSciencePortfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cross-sectional tabular data modelling with CNNs</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/cross-sectional_tabular_data_modelling_with_cnns/</link>
+      <pubDate>Sun, 02 May 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/cross-sectional_tabular_data_modelling_with_cnns/</guid>
+      <description>This project is a very big part of my Master Thesis at WNE UW, you can expect:
+ data preprocessing (missing detection and imputation with earlier developed RF based algorithm, data manipulation, image to vector conversion using Monte Carlo simulation) data analysis and transforms (balance check, distributions analysis (box plots and histograms), outliers reduction using quantile clipping, Yeo-Johnson power transform, normalization, special normalization variant for CNNs) n-Fold Cross Validation study on training set and testing on test set several algorithms (Logits, Random Forests, XGBoosts, Feedforward Neural Networks, Convolutional Neural Networks) hyperparameters optimization for Logits (regularization only), RFs and XGBs Networks building (experiments based on results and learning curves) optimized Inception modules for CNNs automatic feature generation method for enlarging CNNs inputs, based on composing sampled features and arithmetic operations from created discrete probability distributions many times CV results comparison (Wilcoxon testing) models training on the entire training set (specifications chosen in CV) models testing and comparison study on 5 datasets - companies bankruptcy prediction for 1-5 years forecast horizons (in progress) Python notebooks in English (a ton of Python code)   GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>IMDB movie reviews - sentiment analysis</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/imdb_movie_reviews-sentiment_analysis/</link>
+      <pubDate>Sun, 07 Feb 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/imdb_movie_reviews-sentiment_analysis/</guid>
+      <description>This project is about sentiment analysis (text mining field), you can expect:
+ data preparation (nulls and balance check, regex cleaning, label decoding, review length constraint, tokenization, vocabulary building) working with pretrained word embeddings (GloVe) data analysis (embedding coverage, detailed cleaning with regex, stop words, word clouds and count plots) modelling (CNNs, RNNs, VADER) with Cross Validation and error analysis (confusion matrix, misclassification examples analysis) experiments (review length and GloVe dimension sensitivity) 86% test set accuracy Jupyter Notebook report in English (a lot of Python code)   GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Currency exchange - markov switching model</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/currency_exchange-markov_swithcing_model/</link>
+      <pubDate>Sun, 31 Jan 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/currency_exchange-markov_swithcing_model/</guid>
+      <description>This project is about float, fixed and mixed exchange rates differences, you can expect:
+ working on the real data (from fxtop.com) analysis period selection data analysis (realizations plots) cointegration testing (two-step Engle-Granger procedure (1987)) statistical tests (Augmented Dicky-Fuller, Breusch-Godfrey, F, Ljung-Box) model selection (information criteria) Markov switching modelling hypotheses verification (rate swings) inference and interpretations quality paper-style report in Polish   GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>WIG index volatility modelling</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/wig_inedx_volatility_modelling/</link>
+      <pubDate>Tue, 26 Jan 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/wig_inedx_volatility_modelling/</guid>
+      <description>This project is about volatility models comparison, you can expect:
+ working on the real market data (from stooq.pl) time series data EDA (logarithmic returns transform, realization plots, ACFs, PACFs, descriptive statistics) statistical tests (ARCH LM, Jarque-Bera) GARCH modelling with prior assumptions about epsilon distribution (hypotheses) 4 GARCH models (standard, exponential, threshold, component) with 4 different epsilon distributions each (normal, t-student, skewed t-student, generalized error) 3 naive models (random walk, historical average, moving average) 9 performance metrics (ME, MAE, RMSE, AMAPE, TIC, MME(U), MME(O), DCP, DCPU) quality paper-style report in Polish   GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>German real estate modelling with quantile regression</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/german_real_estate_modellig_with_quantile_regression/</link>
+      <pubDate>Sat, 16 Jan 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/german_real_estate_modellig_with_quantile_regression/</guid>
+      <description>This project is about hedonic price model for different price distribution quantiles (German real estate) estimation, you can expect:
+ short data analysis (dependent variable distribution and its moments) data transforms (logarithm, ordinal, nominal transforms) standard hedonic price model estimation (OLS) statistical tests (Jarque-Bera, White) outliers detection (Cook&amp;rsquo;s distance, standarized and studentized residuals) quantiles hedonic price models estimation (with bootstraped covariance matrix - 999 replications) extremely interesting Beta coefficients estimates vs price quantiles plots with interpretation and inference quality paper-style report in Polish   GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Can PCA extract important informations from non-significant features? Neural Network case</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/can_pca_extract_important_informations_from_non-sigificant_features_neural_network_case/</link>
+      <pubDate>Sat, 09 Jan 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/can_pca_extract_important_informations_from_non-sigificant_features_neural_network_case/</guid>
+      <description>This project is about boosting Neural Networks with PCA (other ML algorithms as benchmarks), you can expect:
+ data preparation (renaming labels, balance check, standarization) Random Forest based data imputation algorithm development n-Fold Cross Validation study Machine Learning algorithms (Random Forest, XGBoost with hiperparameters optimization) 6 feature selection methods to spot non-significant features (RF importance, Mutual Information, Spearman correlation between features and with target, General to Specific econometrics procedure, Lasso logistic regression) Neural Networks development (architecture, optimizers, activations, regularization, dropout, batch norm, hyperparameters) Principal Component Analysis of the dataset PCA integration with Nets in CV hypothesis verification using the Wilcoxon test for equality of medians models comparison Python notebook in English (a ton of Python code) quality paper-style report in English project presentation in English   GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Rainfall modelling with OLS and Kernel Regression</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/rainfall_modelling_with_ols_and_kernel_regression/</link>
+      <pubDate>Tue, 22 Dec 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/rainfall_modelling_with_ols_and_kernel_regression/</guid>
+      <description>This project is about Rainfall modelling and assumptions testing, you can expect:
+ working on real data from Polish Institute of Meteorology and Weather Management data cleaning and analysis econometric modelling (OLS, Kernel Regression) OLS assumptions testing (RESET (several alternatives), Breusch-Pagan, Breusch-Godfrey, Jarque-Bera, Rescaled Moments, VIFs) model selection (information criteria) performance measurement (MSE, RMSE, MAE, MAPE, R squared and adjusted R squared, F test, scatterplots) data transformations (Principal Component Analysis, Box Cox power transform) &amp;ldquo;forecasting&amp;rdquo; (see the report why quotation marks used ;)) discussion about endogeneity Python notebook (and many HTML files with models for many weather stations) quality paper-style report in Polish   GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Cryptocurrencies portfolio</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/cryptocurrencies_portfolio/</link>
+      <pubDate>Wed, 24 Jun 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/cryptocurrencies_portfolio/</guid>
+      <description>This project is about conditional variance function and Value at Risk estimation for cryptocurrencies portfolio, you can expect:
+ cryptocurrencies portfolio building with market capitalization weighting principle data scrapping from coinmarketcap.com time series EDA (realizations plot, returns plot, ACFs, PACFs, returns distribution, descriptive statistics) hypotheses testing (Durbin-Watson, ARCH LM, Jarque-Bera, Ljung-Box tests) time series modelling (ARMA-GARCH family models, residuals analysis, model selection, rolling window estimation) Value at Risk estimation, sensitivity analysis forecasting R markdown report in Polish   GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Churn Modelling</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/churn_modelling/</link>
+      <pubDate>Tue, 09 Jun 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/churn_modelling/</guid>
+      <description>This project is about churn modelling (binary classification task) with Machine Learning and Neural Networks in Python, you can expect:
+ statistical analysis (t-student and Jarque-Bera tests, Correlations, Mutual Information) feature selection (feature importances, sensitivity, statistical methods) feature engineering (monotonic transforms, binarization, label encoding, interactions) lots of ML algorithms (Logits, Random Forests, XGBoosts, SVMs, kNNs, Neural Nets, ensembling) n-Folds Cross Validation study bootstrap simulation several notebooks in Polish (lots of Python code)   GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Companies bankruptcy modelling with econometric methods</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/companies_bankruptcy_modelling_with_econometric_methods/</link>
+      <pubDate>Thu, 21 May 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/companies_bankruptcy_modelling_with_econometric_methods/</guid>
+      <description>This project is about companies bankruptcy probability modelling with econometric methods, you can expect:
+ paper-style report (in Polish) with quality tables, literature review, methodology description etc. statistical analysis (distributions, correlations, VIFs) econometric modelling (linear probability model, logit regression, probit regression) hypotheses testing (t-student, z tests, linktest) marginal effects (computation, interpretation) ROC curves cutoff optimization bootstrap simulation (Altman Z-Score follow up) huge Jupyter Notebook in Polish (lots of Python code)   GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>WishList app</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/wishlistapp/</link>
+      <pubDate>Wed, 22 Jan 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/wishlistapp/</guid>
+      <description>This project is about christmas problem solving, you can expect:
+ terminal app SQL queries error handling procedures app documentation, guide in English idea for future Xmas ;)   GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>BMI distribution estimation</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/bmi_distribution_estimation/</link>
+      <pubDate>Mon, 20 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/bmi_distribution_estimation/</guid>
+      <description>This project is about BMI distribution estimation, you can expect:
+ Maximum Likelihood vs Generalized Method of Moments distribution estimations Gaussian vs Weibull dilemma for BMI hypotheses testing (LR, Wald, z tests) WHO standards report in Polish    GitHub repository</description>
+    </item>
+    
+  </channel>
+</rss>

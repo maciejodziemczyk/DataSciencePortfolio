@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STATA on Maciej Odziemczyk</title>
+    <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/stata/</link>
+    <description>Recent content in STATA on Maciej Odziemczyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jan 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/stata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Currency exchange - markov switching model</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/currency_exchange-markov_swithcing_model/</link>
+      <pubDate>Sun, 31 Jan 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/currency_exchange-markov_swithcing_model/</guid>
+      <description>This project is about float, fixed and mixed exchange rates differences, you can expect:
+ working on the real data (from fxtop.com) analysis period selection data analysis (realizations plots) cointegration testing (two-step Engle-Granger procedure (1987)) statistical tests (Augmented Dicky-Fuller, Breusch-Godfrey, F, Ljung-Box) model selection (information criteria) Markov switching modelling hypotheses verification (rate swings) inference and interpretations quality paper-style report in Polish   GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>German real estate modelling with quantile regression</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/german_real_estate_modellig_with_quantile_regression/</link>
+      <pubDate>Sat, 16 Jan 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/german_real_estate_modellig_with_quantile_regression/</guid>
+      <description>This project is about hedonic price model for different price distribution quantiles (German real estate) estimation, you can expect:
+ short data analysis (dependent variable distribution and its moments) data transforms (logarithm, ordinal, nominal transforms) standard hedonic price model estimation (OLS) statistical tests (Jarque-Bera, White) outliers detection (Cook&amp;rsquo;s distance, standarized and studentized residuals) quantiles hedonic price models estimation (with bootstraped covariance matrix - 999 replications) extremely interesting Beta coefficients estimates vs price quantiles plots with interpretation and inference quality paper-style report in Polish   GitHub repository</description>
+    </item>
+    
+  </channel>
+</rss>

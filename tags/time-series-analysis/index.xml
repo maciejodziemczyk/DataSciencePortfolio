@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>time series analysis on Maciej Odziemczyk</title>
+    <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/time-series-analysis/</link>
+    <description>Recent content in time series analysis on Maciej Odziemczyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jan 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/time-series-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Currency exchange - markov switching model</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/currency_exchange-markov_swithcing_model/</link>
+      <pubDate>Sun, 31 Jan 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/currency_exchange-markov_swithcing_model/</guid>
+      <description>This project is about float, fixed and mixed exchange rates differences, you can expect:
+ working on the real data (from fxtop.com) analysis period selection data analysis (realizations plots) cointegration testing (two-step Engle-Granger procedure (1987)) statistical tests (Augmented Dicky-Fuller, Breusch-Godfrey, F, Ljung-Box) model selection (information criteria) Markov switching modelling hypotheses verification (rate swings) inference and interpretations quality paper-style report in Polish   GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>WIG index volatility modelling</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/wig_inedx_volatility_modelling/</link>
+      <pubDate>Tue, 26 Jan 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/wig_inedx_volatility_modelling/</guid>
+      <description>This project is about volatility models comparison, you can expect:
+ working on the real market data (from stooq.pl) time series data EDA (logarithmic returns transform, realization plots, ACFs, PACFs, descriptive statistics) statistical tests (ARCH LM, Jarque-Bera) GARCH modelling with prior assumptions about epsilon distribution (hypotheses) 4 GARCH models (standard, exponential, threshold, component) with 4 different epsilon distributions each (normal, t-student, skewed t-student, generalized error) 3 naive models (random walk, historical average, moving average) 9 performance metrics (ME, MAE, RMSE, AMAPE, TIC, MME(U), MME(O), DCP, DCPU) quality paper-style report in Polish   GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Cryptocurrencies portfolio</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/cryptocurrencies_portfolio/</link>
+      <pubDate>Wed, 24 Jun 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/cryptocurrencies_portfolio/</guid>
+      <description>This project is about conditional variance function and Value at Risk estimation for cryptocurrencies portfolio, you can expect:
+ cryptocurrencies portfolio building with market capitalization weighting principle data scrapping from coinmarketcap.com time series EDA (realizations plot, returns plot, ACFs, PACFs, returns distribution, descriptive statistics) hypotheses testing (Durbin-Watson, ARCH LM, Jarque-Bera, Ljung-Box tests) time series modelling (ARMA-GARCH family models, residuals analysis, model selection, rolling window estimation) Value at Risk estimation, sensitivity analysis forecasting R markdown report in Polish   GitHub repository</description>
+    </item>
+    
+  </channel>
+</rss>

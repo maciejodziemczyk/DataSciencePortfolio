@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision on Maciej Odziemczyk</title>
+    <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/computer-vision/</link>
+    <description>Recent content in Computer Vision on Maciej Odziemczyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 May 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cross-sectional tabular data modelling with CNNs</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/cross-sectional_tabular_data_modelling_with_cnns/</link>
+      <pubDate>Sun, 02 May 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/cross-sectional_tabular_data_modelling_with_cnns/</guid>
+      <description>This project is a very big part of my Master Thesis at WNE UW, you can expect:
+ data preprocessing (missing detection and imputation with earlier developed RF based algorithm, data manipulation, image to vector conversion using Monte Carlo simulation) data analysis and transforms (balance check, distributions analysis (box plots and histograms), outliers reduction using quantile clipping, Yeo-Johnson power transform, normalization, special normalization variant for CNNs) n-Fold Cross Validation study on training set and testing on test set several algorithms (Logits, Random Forests, XGBoosts, Feedforward Neural Networks, Convolutional Neural Networks) hyperparameters optimization for Logits (regularization only), RFs and XGBs Networks building (experiments based on results and learning curves) optimized Inception modules for CNNs automatic feature generation method for enlarging CNNs inputs, based on composing sampled features and arithmetic operations from created discrete probability distributions many times CV results comparison (Wilcoxon testing) models training on the entire training set (specifications chosen in CV) models testing and comparison study on 5 datasets - companies bankruptcy prediction for 1-5 years forecast horizons (in progress) Python notebooks in English (a ton of Python code)   GitHub repository</description>
+    </item>
+    
+  </channel>
+</rss>
