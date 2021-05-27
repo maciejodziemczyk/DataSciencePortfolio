@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 02 May 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://maciejodziemczyk.github.io/DataSciencePortfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>News headers classification - NLP</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/news_headers_classification/</link>
+      <pubDate>Wed, 26 May 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/news_headers_classification/</guid>
+      <description>This project is about news headers classification (text mining field), but the project core was preprocessing and feature engineering, you can expect:
+ target variable analysis a lot of data preprocessing (cleaning with regex, stoplist building, lemmatization, all verified with word clouds) a lot of feature engineering  titles length measures (before and after preprocessing, mean number of words, normalized) sentiment estimated with VADER (normalized) named entity recognition with SpaCy (groups of tags, most frequent tags) n-grams (most frequent unigrams and bigrams)   GloVe word embeddings (100-dimensional vectors) model validation and architekture choosing final two input neural network architecture:  first branch based on pretrained GloVe embeddings, 1D Convolutions and 1D Max pooling second branch based on engineered features (65 in total, sparse) and dense layer concatenation to main branch with two more dense layers with regularization and dropout softmax classifier with 4 outputs   model evaluation and amazing test set results (at least 90% accuracy for each class, test set confusion matrix below) Jupyter Notebook in English with ton of python code :)   GitHub repository</description>
+    </item>
+    
+    <item>
       <title>Cross-sectional tabular data modelling with CNNs</title>
       <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/cross-sectional_tabular_data_modelling_with_cnns/</link>
       <pubDate>Sun, 02 May 2021 11:25:05 -0400</pubDate>
