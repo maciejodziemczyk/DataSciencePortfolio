@@ -6,17 +6,7 @@
     <description>Recent content in R on Maciej Odziemczyk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Jan 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/r/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Currency exchange - markov switching model</title>
-      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/currency_exchange-markov_swithcing_model/</link>
-      <pubDate>Sun, 31 Jan 2021 11:25:05 -0400</pubDate>
-      
-      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/currency_exchange-markov_swithcing_model/</guid>
-      <description>This project is about float, fixed and mixed exchange rates differences, you can expect:
- working on the real data (from fxtop.com) analysis period selection data analysis (realizations plots) cointegration testing (two-step Engle-Granger procedure (1987)) statistical tests (Augmented Dicky-Fuller, Breusch-Godfrey, F, Ljung-Box) model selection (information criteria) Markov switching modelling hypotheses verification (rate swings) inference and interpretations quality paper-style report in Polish   GitHub repository</description>
-    </item>
-    
+    <lastBuildDate>Tue, 26 Jan 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WIG index volatility modelling</title>
       <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/wig_inedx_volatility_modelling/</link>

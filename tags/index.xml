@@ -6,7 +6,43 @@
     <description>Recent content in Tags on Maciej Odziemczyk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 May 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Jun 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>econometrics</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/econometrics/</link>
+      <pubDate>Wed, 09 Jun 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/econometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>notebook</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/notebook/</link>
+      <pubDate>Wed, 09 Jun 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/notebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/python/</link>
+      <pubDate>Wed, 09 Jun 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>statistics</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/statistics/</link>
+      <pubDate>Wed, 09 Jun 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/statistics/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Neural Networks</title>
       <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/neural-networks/</link>
@@ -22,24 +58,6 @@
       <pubDate>Wed, 26 May 2021 11:25:05 -0400</pubDate>
       
       <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/nlp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>notebook</title>
-      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/notebook/</link>
-      <pubDate>Wed, 26 May 2021 11:25:05 -0400</pubDate>
-      
-      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/notebook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/python/</link>
-      <pubDate>Wed, 26 May 2021 11:25:05 -0400</pubDate>
-      
-      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/python/</guid>
       <description></description>
     </item>
     
@@ -71,15 +89,6 @@
     </item>
     
     <item>
-      <title>statistics</title>
-      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/statistics/</link>
-      <pubDate>Sun, 02 May 2021 11:25:05 -0400</pubDate>
-      
-      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Thesis</title>
       <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/thesis/</link>
       <pubDate>Sun, 02 May 2021 11:25:05 -0400</pubDate>
@@ -89,29 +98,11 @@
     </item>
     
     <item>
-      <title>econometrics</title>
-      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/econometrics/</link>
-      <pubDate>Sun, 31 Jan 2021 11:25:05 -0400</pubDate>
-      
-      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/econometrics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>quality report</title>
       <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/quality-report/</link>
       <pubDate>Sun, 31 Jan 2021 11:25:05 -0400</pubDate>
       
       <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/quality-report/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/r/</link>
-      <pubDate>Sun, 31 Jan 2021 11:25:05 -0400</pubDate>
-      
-      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/r/</guid>
       <description></description>
     </item>
     
@@ -130,6 +121,15 @@
       <pubDate>Sun, 31 Jan 2021 11:25:05 -0400</pubDate>
       
       <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/time-series-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/r/</link>
+      <pubDate>Tue, 26 Jan 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/r/</guid>
       <description></description>
     </item>
     

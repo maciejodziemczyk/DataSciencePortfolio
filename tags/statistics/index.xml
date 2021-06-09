@@ -6,7 +6,18 @@
     <description>Recent content in statistics on Maciej Odziemczyk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 May 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Jun 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Endogeneity in statistical inference and forecasting</title>
+      <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/endogeneity_in_statistical_inference_and_forecasting/</link>
+      <pubDate>Wed, 09 Jun 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/endogeneity_in_statistical_inference_and_forecasting/</guid>
+      <description>This project is about statistical inference and predictions in the face of identification problems (endogeneity), you can expect:
+ data generation according to own-defined Data Generation Process endogeneity problems analysis (positive and negative mediators, confounders) OLS models instrumental variables simulation notebook with Python code project report   GitHub repository
+PS. Because I couldn&amp;rsquo;t find suitable and free photo for the background I created it myself :)</description>
+    </item>
+    
     <item>
       <title>Cross-sectional tabular data modelling with CNNs</title>
       <link>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/cross-sectional_tabular_data_modelling_with_cnns/</link>

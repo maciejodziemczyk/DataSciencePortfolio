@@ -3,7 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://maciejodziemczyk.github.io/DataSciencePortfolio/</loc>
-    <lastmod>2021-05-26T11:25:05-04:00</lastmod>
+    <lastmod>2021-06-09T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/econometrics/</loc>
+    <lastmod>2021-06-09T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://maciejodziemczyk.github.io/DataSciencePortfolio/post/endogeneity_in_statistical_inference_and_forecasting/</loc>
+    <lastmod>2021-06-09T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/notebook/</loc>
+    <lastmod>2021-06-09T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/python/</loc>
+    <lastmod>2021-06-09T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/statistics/</loc>
+    <lastmod>2021-06-09T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/</loc>
+    <lastmod>2021-06-09T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -18,21 +48,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/nlp/</loc>
-    <lastmod>2021-05-26T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/notebook/</loc>
-    <lastmod>2021-05-26T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/python/</loc>
-    <lastmod>2021-05-26T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/</loc>
     <lastmod>2021-05-26T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -62,11 +77,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/statistics/</loc>
-    <lastmod>2021-05-02T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/thesis/</loc>
     <lastmod>2021-05-02T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -82,17 +92,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/econometrics/</loc>
-    <lastmod>2021-01-31T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/quality-report/</loc>
-    <lastmod>2021-01-31T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/r/</loc>
     <lastmod>2021-01-31T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -104,6 +104,11 @@
   </url><url>
     <loc>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/time-series-analysis/</loc>
     <lastmod>2021-01-31T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://maciejodziemczyk.github.io/DataSciencePortfolio/tags/r/</loc>
+    <lastmod>2021-01-26T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
